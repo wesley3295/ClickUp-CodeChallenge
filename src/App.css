@@ -1,0 +1,16 @@
+.app {
+  background-color: black;
+}
+
+.app__container {
+  position: relative;
+  background-color: #ffffff;
+  padding-left: 240px;
+  padding-top: 40px;
+  background-size: cover;
+  background-position: center;
+}
+
+.app__videos::-webkit-scrollbar {
+  display: none;
+}

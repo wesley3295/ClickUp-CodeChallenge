@@ -1,0 +1,33 @@
+.card {
+  position: absolute;
+  margin-top: 180px;
+}
+
+.card__container {
+  background-color: #fde8f5;
+  width: 1120px;
+  height: 560px;
+  border-radius: 5%;
+  padding-right: -45px;
+}
+
+.card__container h2 {
+  position: absolute;
+  color: #212353;
+  margin-left: 550px;
+  margin-top: 135px;
+  font-size: 30px;
+}
+
+.card__container p {
+  position: absolute;
+  margin-left: 550px;
+  margin-top: 250px;
+  line-height: 1.5;
+}
+
+.card__container img {
+  position: absolute;
+  margin-left: 75px;
+  margin-top: 100px;
+}

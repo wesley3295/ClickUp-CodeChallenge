@@ -3,9 +3,7 @@
   height: 450px;
   padding-top: 100px;
 }
-.parallax__card {
-  position: relative;
-}
+
 .parallax img {
   min-width: 870px;
   height: 450px;

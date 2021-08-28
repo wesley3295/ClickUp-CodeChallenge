@@ -5,8 +5,8 @@
 .app__container {
   position: relative;
   background-color: #ffffff;
-  padding-left: 240px;
-  padding-top: 40px;
+  display: flex;
+  justify-content: center;
   background-size: cover;
   background-position: center;
 }

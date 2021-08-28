@@ -1,0 +1,62 @@
+.features {
+}
+.features__container {
+  border-radius: 45px;
+  width: 1000px;
+  height: 500px;
+  text-align: center;
+}
+.features__container h1 {
+  margin-top: 100px;
+  color: #212353;
+  font-size: 40px;
+}
+.features__container p {
+  margin-top: 10px;
+  line-height: 1.5;
+  font-size: 20px;
+  color: #4b5d68;
+}
+.features__icon {
+  width: 21px;
+  font-size: 18px;
+  padding-left: 10px;
+  color: #9c69e2;
+}
+.features__grid button {
+  height: 60px;
+  width: 150px;
+  border-radius: 50px;
+  background-color: #fff;
+  color: black;
+  border: none;
+  font-size: 12px;
+  font-weight: bold;
+  box-shadow: 0px 3px 3px #eff1f2;
+  margin-left: 360px;
+}
+.features__grid div {
+  width: 530px;
+  height: 360px;
+}
+.features__grid img {
+  margin-right: 300px;
+  margin-top: 90px;
+}
+.features__grid p {
+  margin-right: 50px;
+  margin-top: 130px;
+  margin-left: 260px;
+}
+.features__griditem1 {
+  background-color: #f0faf9;
+}
+.features__griditem2 {
+  background-color: #f6f0fd;
+}
+.features__griditem3 {
+  background-color: #fef0f8;
+}
+.features__griditem4 {
+  background-color: #eaf6fc;
+}
